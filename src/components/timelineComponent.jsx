@@ -89,7 +89,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Yah ldr dong selama 6 bulan..",
-            date: "9 February 2021",
+            date: "25 April 2021",
             description: "Selama 6 bulan ini adalah momen dimana aku berusaha ngeyakinin kamu untuk bisa suka balik sama aku. I thought ini yang dinamakan fase pdkt tapi sebenernya udah confess hihi...",
             image: fotoldr,
             icon: (
@@ -100,7 +100,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Finally, ketemu setelah drama ldr!",
-            date: "19 February 2021",
+            date: "19 Agustus 2021",
             description: "Akhirnya setelah sekian lama gabisa ketemu karena covid, akhirnya kita bisa ketemu. Disini aku jemput kamu di Surabaya yang aku nyasar sampe ke tol gresik...",
             image: fotopostldr,
             icon: (
@@ -199,7 +199,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Finally, Nurkhalissa Mahdanie, S.KM (uo)",
-            date: "18 March 2023",
+            date: "30 June 2023",
             description: "Finally, akhirnya bubby menamatkan perkuliahan menjadi Sarjana Kesayangan Mertua. Huhu sad banget aku gabisa nyamperin bubby karena aku juga kebetulan lagi UAS",
             image: fotosidanglissa,
             icon: (
@@ -265,7 +265,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Alhamdulillah Umroh",
-            date: "26 January 2024",
+            date: "22 February 2024",
             description: "Karena kamu sebelumnya udah ngasih aku mini gift, aku bawa nih bih didepan ka'bah dan doain semua hajat-hajat aku dan kamu.",
             image: fotoumroh,
             icon: (
@@ -276,7 +276,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Sunset di Kebun!",
-            date: "2 Maret 2024",
+            date: "2 March 2024",
             description: "For the first time, akhirnya kita ikutan konser nih asik banget. Banyak kejadian unik, mulai dari tiba-tiba ujan ampe becek lumpur. Terus bubby bisa lihat artis kesukaan bubby...",
             image: fotokonser,
             icon: (
@@ -287,7 +287,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Bukber with kakak-kakak!",
-            date: "22 Maret 2024",
+            date: "22 March 2024",
             description: "Kita buka bersama bareng nih sama kakak-kakak bagus. Agak kejadian langka yah bisa keluar ama semuanya bareng tanpa papa & bu atik. We have a good dinner tbh..",
             image: fotodinner,
             icon: (
@@ -320,7 +320,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Akhirnya bagus menyusul lulus!",
-            date: "19 Juni 2024",
+            date: "19 June 2024",
             description: "Alhamdulillah dengan segala drama yang aku laluin, finally Bagus nyusul kamu lulus. Even kamu gaada disini nemenin aku, but kamu berusaha keras buat make me happy!",
             image: fotosidangbagus,
             icon: (
@@ -331,7 +331,7 @@ const TimelineComponent = () => {
         },
         {
             title: "Ultah aku yang FYP!",
-            date: "21 Juni 2024",
+            date: "21 June 2024",
             description: "Kita ngerayain ultah bareng dinner lewat facetime terus ada surprise kue dari kamu! terus ada si bocil shanum yang akhirnya dikontenin jadi FYP di tiktok ampe 400K views!",
             image: fotokue,
             icon: (
